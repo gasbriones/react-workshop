@@ -1,5 +1,5 @@
 module.exports = {
-    entry: "./src/controller.js",
+    entry: "./src/controller.jsx",
     output: {
         filename: "bundle.js",
         publicPath: "/dist/"
